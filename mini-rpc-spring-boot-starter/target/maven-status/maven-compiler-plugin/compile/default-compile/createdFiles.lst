@@ -1,0 +1,10 @@
+com/example/minirpc/starter/autoconfigure/MiniRpcAutoConfiguration$ClientConfig$RpcReferenceBeanPostProcessor.class
+com/example/minirpc/starter/properties/MiniRpcProperties.class
+com/example/minirpc/starter/properties/MiniRpcProperties$Server.class
+com/example/minirpc/starter/autoconfigure/MiniRpcAutoConfiguration$ClientConfig.class
+com/example/minirpc/starter/autoconfigure/MiniRpcAutoConfiguration$ServerConfig$RpcServiceBeanPostProcessor.class
+com/example/minirpc/starter/autoconfigure/MiniRpcAutoConfiguration$ServerConfig.class
+com/example/minirpc/starter/autoconfigure/MiniRpcAutoConfiguration$ServerConfig$RpcServerRunner.class
+com/example/minirpc/starter/autoconfigure/MiniRpcAutoConfiguration.class
+com/example/minirpc/starter/properties/MiniRpcProperties$Registry.class
+com/example/minirpc/starter/properties/MiniRpcProperties$Client.class

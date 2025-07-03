@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: mini-rpc-provider
+
+mini:
+  rpc:
+    server-enable: true
+    client-enable: false
+    server:
+      host: localhost
+      port: 9090

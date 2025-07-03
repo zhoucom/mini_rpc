@@ -1,0 +1,16 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: mini-rpc-consumer
+
+mini:
+  rpc:
+    server-enable: false
+    client-enable: true
+    # 添加直连地址，指向提供者的RPC服务端口
+    direct-address: localhost:9090
+    server:
+      host: localhost
+      port: 9090

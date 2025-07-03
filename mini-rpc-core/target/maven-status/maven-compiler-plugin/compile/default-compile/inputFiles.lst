@@ -1,0 +1,14 @@
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/server/RpcServer.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/registry/DirectServiceRegistry.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/annotation/RpcService.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/protocol/RpcResponse.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/client/RpcClientProxy.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/client/RpcClient.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/serialize/Serializer.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/registry/LocalServiceRegistry.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/client/NettyRpcClient.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/annotation/RpcReference.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/registry/ServiceRegistry.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/serialize/JsonSerializer.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/server/NettyRpcServer.java
+/Users/lei.zhou/Documents/cursor_projects/mini_rpc/mini-rpc-core/src/main/java/com/example/minirpc/core/protocol/RpcRequest.java

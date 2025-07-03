@@ -1,0 +1,5 @@
+com/example/minirpc/sample/provider/ProviderApplication.class
+com/example/minirpc/sample/consumer/HelloController.class
+com/example/minirpc/sample/api/HelloService.class
+com/example/minirpc/sample/consumer/ConsumerApplication.class
+com/example/minirpc/sample/provider/HelloServiceImpl.class

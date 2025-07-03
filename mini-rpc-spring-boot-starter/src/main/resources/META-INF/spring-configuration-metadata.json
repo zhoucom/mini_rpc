@@ -1,0 +1,72 @@
+{
+  "groups": [
+    {
+      "name": "mini.rpc",
+      "type": "com.example.minirpc.starter.properties.MiniRpcProperties",
+      "sourceType": "com.example.minirpc.starter.properties.MiniRpcProperties"
+    },
+    {
+      "name": "mini.rpc.server",
+      "type": "com.example.minirpc.starter.properties.MiniRpcProperties$Server",
+      "sourceType": "com.example.minirpc.starter.properties.MiniRpcProperties",
+      "sourceMethod": "getServer()"
+    },
+    {
+      "name": "mini.rpc.client",
+      "type": "com.example.minirpc.starter.properties.MiniRpcProperties$Client",
+      "sourceType": "com.example.minirpc.starter.properties.MiniRpcProperties",
+      "sourceMethod": "getClient()"
+    },
+    {
+      "name": "mini.rpc.registry",
+      "type": "com.example.minirpc.starter.properties.MiniRpcProperties$Registry",
+      "sourceType": "com.example.minirpc.starter.properties.MiniRpcProperties",
+      "sourceMethod": "getRegistry()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mini.rpc.server-enable",
+      "type": "java.lang.Boolean",
+      "description": "是否启用RPC服务器",
+      "sourceType": "com.example.minirpc.starter.properties.MiniRpcProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "mini.rpc.client-enable",
+      "type": "java.lang.Boolean",
+      "description": "是否启用RPC客户端",
+      "sourceType": "com.example.minirpc.starter.properties.MiniRpcProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "mini.rpc.registry.type",
+      "type": "java.lang.String",
+      "description": "注册中心类型",
+      "sourceType": "com.example.minirpc.starter.properties.MiniRpcProperties$Registry",
+      "defaultValue": "local"
+    },
+    {
+      "name": "mini.rpc.server.host",
+      "type": "java.lang.String",
+      "description": "服务器主机名",
+      "sourceType": "com.example.minirpc.starter.properties.MiniRpcProperties$Server",
+      "defaultValue": "localhost"
+    },
+    {
+      "name": "mini.rpc.server.port",
+      "type": "java.lang.Integer",
+      "description": "服务器端口",
+      "sourceType": "com.example.minirpc.starter.properties.MiniRpcProperties$Server",
+      "defaultValue": 8088
+    },
+    {
+      "name": "mini.rpc.client.timeout",
+      "type": "java.lang.Long",
+      "description": "客户端默认超时时间（毫秒）",
+      "sourceType": "com.example.minirpc.starter.properties.MiniRpcProperties$Client",
+      "defaultValue": 5000
+    }
+  ],
+  "hints": []
+}
